@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
+  "notes": "Fixes the ring 'Token exchange error' and adds in-app updates."
+}
