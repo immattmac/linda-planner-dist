@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.0",
+  "versionCode": 5,
+  "versionName": "0.2.1",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "Warm Hearth redesign: new look, Home shows today at a glance, and a new Find tab with the map — check location quietly, or hold-to-ring with a 3-second undo."
+  "notes": "Ping feed with times and seen receipts, your own editable quick messages, and the Find map now explains itself — including why a location check failed."
 }
