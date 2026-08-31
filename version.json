@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.1",
+  "versionCode": 6,
+  "versionName": "0.3.0",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "Ping feed with times and seen receipts, your own editable quick messages, and the Find map now explains itself — including why a location check failed."
+  "notes": "Magic add box (paste or share anything — events, items, chores, recipes) + a Recipes tab with one-tap add-to-shopping. Paste a free Gemini key in Settings → Assistant to switch the box on."
 }
