@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.0",
+  "versionCode": 7,
+  "versionName": "0.3.1",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "Magic add box (paste or share anything — events, items, chores, recipes) + a Recipes tab with one-tap add-to-shopping. Paste a free Gemini key in Settings → Assistant to switch the box on."
+  "notes": "Magic add now tells you what actually went wrong instead of blaming your connection — a disabled API, an invalid or restricted key, or an unknown model are each named, and the full error can be copied. The Gemini key also moved out of the request URL into a header."
 }
