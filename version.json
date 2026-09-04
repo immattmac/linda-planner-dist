@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.1",
+  "versionCode": 8,
+  "versionName": "0.3.2",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "Magic add now tells you what actually went wrong instead of blaming your connection — a disabled API, an invalid or restricted key, or an unknown model are each named, and the full error can be copied. The Gemini key also moved out of the request URL into a header."
+  "notes": "Magic add works. The assistant was calling a Gemini model Google has since retired, so every attempt 404'd. It now calls the gemini-flash-latest alias, which stays pointed at the current Flash model, and handles thinking-model replies properly."
 }
