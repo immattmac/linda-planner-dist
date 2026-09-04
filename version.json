@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.3.3",
+  "versionCode": 10,
+  "versionName": "0.3.4",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "Quota errors from the assistant now say which quota ran out — a free tier with no allowance for the model, a daily limit with its reset time, or a per-minute limit with the server's own retry delay."
+  "notes": "The assistant no longer times out. The current Flash model thinks before answering and could outrun the old 45s budget; thinking is now set to low for this task and the timeout is 120s. A real timeout also says how long it waited instead of blaming your connection."
 }
