@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.3.4",
+  "versionCode": 11,
+  "versionName": "0.3.5",
   "apkUrl": "https://github.com/immattmac/linda-planner-dist/releases/latest/download/app-release.apk",
-  "notes": "The assistant no longer times out. The current Flash model thinks before answering and could outrun the old 45s budget; thinking is now set to low for this task and the timeout is 120s. A real timeout also says how long it waited instead of blaming your connection."
+  "notes": "The Home tab always works now. It could go dead for the rest of a session after Home → a Home card → Lists → Home; that path is fixed. Re-tapping the tab you're already on no longer does anything."
 }
